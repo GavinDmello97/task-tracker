@@ -1,0 +1,18 @@
+.btn {
+    border-radius: 4px;
+    padding: 10px 30px;
+    width: 100%;    /* border-style: hidden; */
+}
+
+.btn:focus {
+    outline: none;
+  }
+  
+.btn:active {
+    transform: scale(0.98);
+  }
+  
+.btn-block {
+    display: block;
+    width: 100%;
+  }

@@ -1,0 +1,21 @@
+.body-container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(243, 240, 240);
+}
+
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: outset;
+    border-color: steelblue;
+    background-color: white;
+    padding: 10px 50px
+}
